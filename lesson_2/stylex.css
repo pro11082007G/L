@@ -16,6 +16,9 @@ h1 {
 
   }
   .paragraph-3{
-      fon-weight: bolt;
-      font-family: Courier New;
+      text-align: center;
+      text-shadow: gold 0 8px;
+      font-size: 24px;
+      font-style: oblique;
   }
+
